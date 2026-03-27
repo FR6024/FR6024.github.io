@@ -21,13 +21,9 @@ I am a Ph.D. candidate at Shanghai University (上海大学), under the supervis
 
 During college, I served in the People's Liberation Army Air Force (中国人民解放军空军), which tempered my character in many ways. I remain enthusiastic about sports, especially running, swimming, and badminton.
 
-I am always eager to collaborate with researchers who share similar interests. Feel free to reach out via [email](mailto://zbj3610@shu.edu.cn).
+I am always eager to collaborate with researchers who share similar interests. Feel free to reach out via *zbj3610@shu.edu.cn*.
 
 # Experience
-- Ph.D.  Shanghai University  2023–Present
-- B.S.  Shanghai University  2017-2023
-- PLA  China Air Force  2018-2020
-
 - *2023 – Now*, Shanghai University, Ph.D. . 
 - *2017 - 2023*, Shanghai University, B.S. .
 - *2018 - 2020*, China Air Force. 
@@ -35,8 +31,8 @@ I am always eager to collaborate with researchers who share similar interests. F
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 . 
+- *2022.02*: &nbsp;🎉🎉 . 
 
 # 📝 Publications 
 
