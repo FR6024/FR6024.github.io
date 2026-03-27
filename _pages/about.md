@@ -19,7 +19,8 @@ redirect_from:
 
 I am a Ph.D. candidate at Shanghai University (上海大学), under the supervision of Prof. Ping An (安平). My research lies at the intersection of computer vision and video processing, with a particular focus on video frame interpolation (VFI).
 
-During college, I served in the People's Liberation Army Air Force (中国人民解放军空军), which tempered my character in many ways. I remain enthusiastic about sports, especially running, swimming, and badminton.
+During college, I served in the People's Liberation Army Air Force (中国人民解放军空军), which tempered my character in many ways. 
+I remain enthusiastic about sports, especially running, swimming, and badminton.
 
 I am always eager to collaborate with researchers who share similar interests. Feel free to reach out via *zbj3610@shu.edu.cn*.
 
@@ -29,10 +30,9 @@ I am always eager to collaborate with researchers who share similar interests. F
 - *2018 - 2020*, China Air Force. 
 
 
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 . 
-- *2022.02*: &nbsp;🎉🎉 . 
+- *2025.12*: &nbsp;🎉🎉 A paper is accepted by IEEE TCSVT. 
+- *2025.02*: &nbsp;🎉🎉 A paper is accepted by IEEE TMM. 
 
 # 📝 Publications 
 
