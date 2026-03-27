@@ -46,7 +46,7 @@ I am always eager to collaborate with researchers who share similar interestsðŸ«
 
 **Baojun Zhou**, *Xinpeng Huang*, Jieyu Chen, Mounir Kaaniche, *Ping An*
 
-[**Project**](https://github.com/FR6024/CSVFI)
+[**Project in Git**](https://github.com/FR6024/CSVFI)
 
 - We propose *CSVFI*, establishing a larger receptive field and introducing structural priors. 
 </div>
