@@ -40,7 +40,7 @@ I am always eager to collaborate with researchers who share similar interests. F
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2026</div><img src='images/TCSVT2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Capture More, Synthesize Better: Video Frame Interpolation with Larger Receptive Field and Structural Priors](https://ieeexplore.ieee.org/document/11339946)
@@ -54,7 +54,7 @@ I am always eager to collaborate with researchers who share similar interests. F
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2025</div><img src='images/TMM2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Guided Video Frame Interpolation With Spatial-Temporal Global Attention](https://ieeexplore.ieee.org/document/11125912)
