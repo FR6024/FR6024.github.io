@@ -31,8 +31,8 @@ I am always eager to collaborate with researchers who share similar interests. F
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 A paper is accepted by IEEE TCSVT. 
-- *2025.02*: &nbsp;🎉🎉 A paper is accepted by IEEE TMM. 
+- *2025.12*: &nbsp;🎉🎉 A paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*. 
+- *2025.02*: &nbsp;🎉🎉 A paper is accepted by *IEEE Transactions on Multimedia*. 
 
 # 📝 Publications 
 
