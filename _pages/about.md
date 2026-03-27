@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🙌 About Me
-Hi!👋 Welcome to my website!🫱🏼‍🫲🏻
+**Hi!👋**
 
 I am a Ph.D. candidate in the School of Communication and Information Engineering at **Shanghai University** (上海大学，通信与信息工程学院), under the supervision of *Prof. Ping An* (安平教授). My research lies at the intersection of computer vision and video processing, with a particular focus on video frame interpolation (**VFI**).
 
