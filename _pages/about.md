@@ -21,7 +21,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the School of Communication and Information Engineering at **Shanghai University** (上海大学，通信与信息工程学院), under the supervision of *Prof. Ping An* (安平教授). My research lies at the intersection of computer vision and video processing, with a particular focus on video frame interpolation (**VFI**).
 
-During college, I served in the *People's Liberation Army Air Force* (中国人民解放军空军)🇨🇳, which tempered my character in many ways. 
+During college, I served in the *People's Liberation Army Air Force* (中国人民解放军空军🇨🇳), which tempered my character in many ways. 
 
 I remain enthusiastic about sports, especially running🏃‍♂️, swimming🏊‍♂️, and badminton🏸.
 
