@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='About Me'></span>
 # 🙌 About Me
 ***Hello!👋***
 
@@ -27,16 +27,18 @@ I remain enthusiastic about sports, especially running🏃‍♂️, swimming�
 
 I am always eager to collaborate with researchers who share similar interests🫱🏼‍🫲🏻. Feel free to reach out via *zbj3610@shu.edu.cn*.
 
+<span class='anchor' id='Experience'></span>
 # 💪 Experience
 - *2023 – Now*, Shanghai University, Ph.D. . 
 - *2017 - 2023*, Shanghai University, B.S. .
 - *2018 - 2020*, China Air Force. 
 
-
+<span class='anchor' id='News'></span>
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 A paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*. 
-- *2025.02*: &nbsp;🎉🎉 A paper is accepted by *IEEE Transactions on Multimedia*. 
-
+- *2025.02*: &nbsp;🎉🎉 A paper is accepted by *IEEE Transactions on Multimedia*.
+- 
+<span class='anchor' id='Publications'></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2026</div><img src='images/TCSVT2026.jpg' alt="sym" width="100%"></div></div>
