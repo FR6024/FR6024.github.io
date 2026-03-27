@@ -45,11 +45,11 @@ I am always eager to collaborate with researchers who share similar interests. F
 
 [Capture More, Synthesize Better: Video Frame Interpolation with Larger Receptive Field and Structural Priors](https://ieeexplore.ieee.org/document/11339946)
 
-**Baojun Zhou**, Xinpeng Huang, Jieyu Chen, Mounir Kaaniche; Ping An
+**Baojun Zhou**, *Xinpeng Huang*, Jieyu Chen, Mounir Kaaniche, *Ping An*
 
 [**Project**](https://github.com/FR6024/CSVFI)
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose *CSVFI*, establishing a larger receptive field and introducing structural priors. 
 </div>
 </div>
 
@@ -59,9 +59,9 @@ I am always eager to collaborate with researchers who share similar interests. F
 
 [Dual-Guided Video Frame Interpolation With Spatial-Temporal Global Attention](https://ieeexplore.ieee.org/document/11125912)
 
-**Baojun Zhou**, Xinpeng Huang, Gongyang Li, Chao Yang, Liquan Shen, Ping An
+**Baojun Zhou**, *Xinpeng Huang*, Gongyang Li, Chao Yang, Liquan Shen, Ping An
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose *DVGA*, which captures large motions through a global receptive field. 
 </div>
 </div>
 
