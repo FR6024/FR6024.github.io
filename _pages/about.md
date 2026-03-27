@@ -16,15 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🙌 About Me
 I am a Ph.D. candidate in the School of Communication and Information Engineering at **Shanghai University** (上海大学，通信与信息工程学院), under the supervision of *Prof. Ping An* (安平教授). My research lies at the intersection of computer vision and video processing, with a particular focus on video frame interpolation (**VFI**).
 
-During college, I served in the *People's Liberation Army Air Force* (中国人民解放军空军)✈️🎖️, which tempered my character in many ways. 
+During college, I served in the *People's Liberation Army Air Force* (中国人民解放军空军)🇨🇳, which tempered my character in many ways. 
 I remain enthusiastic about sports, especially running🏃‍♂️, swimming🏊‍♂️, and badminton🏸.
 
 I am always eager to collaborate with researchers who share similar interests. Feel free to reach out via *zbj3610@shu.edu.cn*.
 
-# Experience
+# 💪 Experience
 - *2023 – Now*, Shanghai University, Ph.D. . 
 - *2017 - 2023*, Shanghai University, B.S. .
 - *2018 - 2020*, China Air Force. 
