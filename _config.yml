@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Baojun Zhou <br> 周宝军"
+  name             : "<div style='text-align:center;'>Baojun Zhou <br> 周宝军</div>"
   avatar           : "images/微信图片_20230329160842.jpg"
   bio              : "Ph.D. candidate in Shanghai University."
   location         : "Shanghai, China"
